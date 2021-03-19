@@ -43,7 +43,7 @@ export default {
           console.log(res.data);
           // this.posts = res.data.posts;
           this.$store.dispatch("setPosts", res.data.posts);
-          // console.log(this.$store.state)
+          console.log(this.$store.state)
         })
         .catch((err) => console.log(err));
     },

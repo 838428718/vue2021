@@ -44,7 +44,7 @@
             <router-link to="/gongfalib">工法库</router-link></el-menu-item
           >
           <el-menu-item index="3-2">
-            <router-link to="/gongfalib">知识产权库</router-link></el-menu-item
+            <router-link to="/zhuanli">知识产权库</router-link></el-menu-item
           >
           <el-menu-item index="3-3">
             <router-link to="/gongfalib">论文库</router-link>
